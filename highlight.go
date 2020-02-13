@@ -7,7 +7,6 @@ import (
 	"sync"
 
 	"github.com/xo/terminfo"
-	"github.com/xo/terminfo/caps"
 )
 
 const (
