@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/mongololbomb/terminfo"
-	"github.com/mongololbomb/terminfo/caps.go"
+	"github.com/mongololbomb/terminfo/caps"
 )
 
 const (
