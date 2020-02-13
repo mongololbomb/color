@@ -14,7 +14,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/nhooyr/color"
+	"github.com/mongololbomb/color"
 )
 
 // Logger is a very simple logger, similar to log.logger but it supports highlight verbs.
