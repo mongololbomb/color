@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/xo/terminfo"
+	"github.com/mongololbomb/terminfo"
 )
 
 const (
