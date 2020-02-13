@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/nhooyr/terminfo"
-	"github.com/nhooyr/terminfo/caps"
+	"github.com/xo/terminfo"
+	"github.com/xo/terminfo/caps"
 )
 
 const (
